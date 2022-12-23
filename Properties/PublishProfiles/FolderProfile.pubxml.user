@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\GigabotsPublish</_PublishTargetUrl>
+    <History>True|2022-10-08T14:59:03.5906337Z;True|2022-09-08T11:51:17.9059023+03:00;True|2022-09-05T06:11:38.4700325+03:00;True|2022-08-01T03:06:40.2265273+03:00;True|2022-07-25T07:18:23.6301069+03:00;True|2022-07-25T07:16:40.9731149+03:00;True|2022-01-03T03:16:08.4737817+02:00;True|2022-01-02T23:14:47.6593802+02:00;True|2021-10-17T02:24:30.7778350+03:00;True|2021-10-15T06:09:03.9384579+03:00;</History>
+  </PropertyGroup>
+</Project>

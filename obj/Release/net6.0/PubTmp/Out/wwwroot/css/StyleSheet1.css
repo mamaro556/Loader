@@ -1,0 +1,29 @@
+﻿body {
+   background-color:#03E85B;
+   font-family: sans-serif;
+   font-size:.85em;
+}
+.box {
+    background-color: #FFFFFF;
+    border-top: 2px solid gray;
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    border-bottom: none;
+    width: 400px;
+}
+
+.box:last-of-type {
+    background-color: #ffffff;
+    border-bottom: 2px solid gray;
+    width: 400px;jk
+}
+
+.TextDiv {
+    width: 400px;
+    height: 250px;
+}
+
+.TextA {
+    width: 400px;
+    height: 150px;
+}
