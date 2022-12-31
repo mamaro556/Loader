@@ -96,6 +96,7 @@ namespace UpmessageMVCNETCore
                 bool  isCaptchaValid = IsCaptchaValid(post.GoogleCaptchaToken).Result; 
                 if  (isCaptchaValid) { 
                     string resp = al.AddPostRecord(post);
+                
                 }
             }
 

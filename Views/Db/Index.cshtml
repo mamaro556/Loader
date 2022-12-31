@@ -81,13 +81,9 @@
         $('#X').click(function(event) {
             grecaptcha.ready(function() {
                 //event.preventDefault();
-                alert("1");
                 grecaptcha.execute('6LdlUOUhAAAAAPAqzi4rz9raWfN18OMhYlE7gFD_', { action: 'Index' }).then(function(token) {
-                    alert("2");
                     $('#GoogleCaptchaToken').val(token);
-                    alert($('#GoogleCaptchaToken').val());
                     $('#postform').submit();         
-                    alert("4");
                 });
             });
         });   
